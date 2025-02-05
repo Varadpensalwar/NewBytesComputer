@@ -17,7 +17,7 @@ function Buy() {
     try {
       setLoading(true);
       const response =await axios.post(
-        `http://localhost:4002/api/v1/course/buy/${courseId}`,
+        `${BACKEND_URL}/course/buy/${courseId}`,
         {},
         {
           headers: {

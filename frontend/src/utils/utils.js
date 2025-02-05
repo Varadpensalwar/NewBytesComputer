@@ -1,1 +1,1 @@
-export const BACKEND_URL ="https://newbytescomputer.onrender.com";
+export const BACKEND_URL ="https://newbytescomputer.onrender.com/api/v1";

@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from "react";
 import axios from "axios"; // Import axios for API call
 import { FaCircleUser } from "react-icons/fa6";
@@ -112,8 +111,8 @@ function Courses() {
             </li>
             <li>
               {isLoggedIn ? (
-                <Link to={"/"}
-                  
+                <Link
+                  to={"/"}
                   className="flex items-center"
                   onClick={handleLogout}
                 >

@@ -183,13 +183,13 @@ function Courses() {
                     <span className="text-green-600">20% off</span>
                   </div>
 
-                  {/* Buy page */}
+                  {/* Buy page
                   <Link
                     to={`/buy/${course._id}`} // Pass courseId in URL
                     className="bg-orange-500 w-full text-white px-4 py-2 rounded-lg hover:bg-blue-900 duration-300"
                   >
                     Buy Now
-                  </Link>
+                  </Link> */}
                 </div>
               ))}
             </div>

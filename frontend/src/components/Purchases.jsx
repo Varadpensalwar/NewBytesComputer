@@ -94,7 +94,7 @@ function Purchases() {
                 <FaDiscourse className="mr-2" /> Courses
               </Link>
             </li>
-            <li className="mb-4">
+            {/* <li className="mb-4">
               <a href="#" className="flex items-center text-blue-500">
                 <FaDownload className="mr-2" /> Purchases
               </a>
@@ -114,7 +114,7 @@ function Purchases() {
                   <IoLogIn className="mr-2" /> Login
                 </Link>
               )}
-            </li>
+            </li> */}
           </ul>
         </nav>
       </div>

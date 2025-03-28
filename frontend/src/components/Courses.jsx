@@ -109,7 +109,7 @@ function Courses() {
                 <IoMdSettings className="mr-2" /> Settings
               </a>
             </li> */}
-            <li>
+            {/* <li>
               {isLoggedIn ? (
                 <Link
                   to={"/"}
@@ -123,7 +123,7 @@ function Courses() {
                   <IoLogIn className="mr-2" /> Login
                 </Link>
               )}
-            </li>
+            </li> */}
           </ul>
         </nav>
       </aside>

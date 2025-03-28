@@ -151,7 +151,7 @@ function Home() {
               Explore courses
             </Link>
             <Link
-              to={"https://www.youtube.com/learncodingofficial"}
+              to={"https://github.com/Varadpensalwar/NewBytesComputer"}
               className="bg-white text-black  p-2 md:py-3 md:px-6 rounded font-semibold hover:bg-green-500 duration-300 hover:text-white"
             >
               Courses videos

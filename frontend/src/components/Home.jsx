@@ -212,16 +212,16 @@ function Home() {
             </div>
 
             <div className="items-center mt-6 md:mt-0 flex flex-col">
-              <h3 className="text-lg font-semibold md:mb-4">connects</h3>
+              <h3 className="text-lg font-semibold md:mb-4">Connect</h3>
               <ul className=" space-y-2 text-gray-400">
                 <li className="hover:text-white cursor-pointer duration-300">
-                  youtube- learn coding
+                  YT - New Bytes Computer
                 </li>
                 <li className="hover:text-white cursor-pointer duration-300">
-                  telegram- learn coding
+                  Telegram - New Bytes Computer
                 </li>
                 <li className="hover:text-white cursor-pointer duration-300">
-                  Github- learn coding
+                  Github - New Bytes Computer
                 </li>
               </ul>
             </div>

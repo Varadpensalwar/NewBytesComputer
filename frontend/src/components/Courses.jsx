@@ -99,7 +99,7 @@ function Courses() {
                 <FaDiscourse className="mr-2" /> Courses
               </a>
             </li>
-            <li className="mb-4">
+            {/* <li className="mb-4">
               <a href="/purchases" className="flex items-center">
                 <FaDownload className="mr-2" /> Purchases
               </a>
@@ -108,7 +108,7 @@ function Courses() {
               <a href="#" className="flex items-center">
                 <IoMdSettings className="mr-2" /> Settings
               </a>
-            </li>
+            </li> */}
             <li>
               {isLoggedIn ? (
                 <Link

@@ -227,7 +227,7 @@ function Home() {
             </div>
             <div className="items-center mt-6 md:mt-0 flex flex-col">
               <h3 className="text-lg font-semibold mb-4">
-                copyrights &#169; 2024
+                Copyright &#169; 2025
               </h3>
               <ul className=" space-y-2 text-center text-gray-400">
                 <li className="hover:text-white cursor-pointer duration-300">

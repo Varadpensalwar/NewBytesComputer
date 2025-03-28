@@ -106,7 +106,7 @@ function Home() {
             New Bytes Computer
             </h1>
           </div>
-          <div className="space-x-4">
+          {/* <div className="space-x-4">
             {isLoggedIn ? (
               <button
                 onClick={handleLogout}
@@ -130,7 +130,7 @@ function Home() {
                 </Link>
               </>
             )}
-          </div>
+          </div> */}
         </header>
 
         {/* Main section */}

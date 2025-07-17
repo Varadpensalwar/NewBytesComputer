@@ -4,7 +4,7 @@ A modern, responsive website for New Bytes Computer, a computer education and tr
 
 ## Live Demo
 
-Visit the live website: [New Bytes Computer](https://newbytescomputer.netlify.app/)
+website link: [New Bytes Computer](https://newbytescomputer.netlify.app/)
 
 ## Description
 

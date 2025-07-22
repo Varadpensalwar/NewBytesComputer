@@ -1,6 +1,6 @@
 # New Bytes Computer
 
-A modern, responsive website for New Bytes Computer, a computer education and training center.
+A modern, responsive website for New Bytes Computer, Billoli. a computer education and training center.
 
 ## Live Demo
 
